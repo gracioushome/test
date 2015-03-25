@@ -1,7 +1,7 @@
 <?php
 /**
  * @author nlyte-portal-eng
- * @revision $Rev:$
+ * @revision $Rev$:
  * 
  */
 class NlyteCommonFunctions 
