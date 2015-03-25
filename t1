@@ -1,0 +1,22 @@
+<?php
+/**
+ * @author nlyte-portal-eng
+ * @revision $Rev$
+ * 
+ */
+class NlyteCommonFunctions 
+{
+    
+    function __construct() 
+    {
+        
+    }
+    
+    function getEnv () {
+        
+    }
+    
+    function __destruct() {
+        
+    }
+}
